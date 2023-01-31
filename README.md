@@ -9,3 +9,6 @@ Technology:
     2.CSS
     3.Bootstrap
     4.Angular
+Technology:
+    1.Java
+    2.Core Java
